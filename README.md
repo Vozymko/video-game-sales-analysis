@@ -24,7 +24,7 @@ Data cleaning was performed in Google Sheets, with the following major cleaning 
 * Filling in Missing/Incorrect Values
 * Removing Duplicate/Incorrect/Alternate Records
   
-Full cleaning documentation can be reviewed [here](documentation/data_cleaning_documentation).
+Full cleaning documentation can be reviewed [here](documentation/data_cleaning_documentation.pdf).
 
 ## Analysis and Methodology
 Analysis of video game sales trends across genres, platforms, years, and platform lifecycles was performed using the cleaned video game sales dataset and supplemental platform release-year dataset in BigQuery using SQL.
