@@ -1,5 +1,5 @@
 # Video Game Sales Analysis
-A data analytics portfolio project analyzing video game sales trends across genres, platforms, release years, and platform lifecycles using SQL in BigQuery and Tableau.
+An analysis of video game sales trends across genres, platforms, release years, and platform lifecycles using SQL in BigQuery and Tableau.
 
 ## Business Task
 The goal of this project is to determine which video game genres and platforms should be prioritized by a startup video game company when developing new games. This project will identify historical sales trends using video game sales data spanning from 1977 to 2020. The analysis will evaluate how video game performance across different genres and platforms has changed over time, and examine which combinations of genres and platforms have generated the most sales. The final deliverable will provide five data-driven insights to help the company identify opportunities in the video game market.
