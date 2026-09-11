@@ -37,14 +37,14 @@ Visualizations were created in Tableau to identify sales patterns across platfor
 1. A small number of high-performing games accounted for disproportionately high sales.
 2. Platform games had the highest median global sales among genres, despite having fewer releases than several other genres.
 3. Yearly median global sales in the 1980s and 1990s showed unusually high values, both in genre and platform, which coincided with a lower number of releases.
-4. Typical commercial performance varied based on the combination of platform and genre rather than being associated with genre or platform alone.
+4. Typical commercial performance varied across platform-genre combinations rather than being associated with genre or platform alone.
 5. Games released earlier in a platform’s lifecycle may have had stronger median sales performance, though this relationship varied by platform.
 
 Further detail on these insights can be reviewed [here](reports/executive_summary.pdf).
 
 ## Limitations
 1. This analysis reflects only the video game sales information represented in the dataset being used, rather than the entire video game market.
-2. Some regional sales values from older or incomplete records were not carried over during cleaning, and some Year and Title values that were missing or incorrect in the original dataset were updated using data from reputable sources. Additionally, some records were removed during the cleaning process.
+2. Some regional sales values from older or incomplete records were not carried over during cleaning, and some Year values that were missing or incorrect in the original dataset were updated using data from reputable sources. Additionally, some records were removed during the cleaning process.
 3. Median Global Sales calculated from small sample sizes should be interpreted cautiously: they may be disproportionately represented among the highest median values.
 4. The overall median by platform age produced a different pattern than when broken out by individual platforms, likely reflecting differences in the distribution of games across platforms and the influence of high-performing games at certain platform ages.
 5. This analysis identifies associations between sales and video game genre, platform, release year, and platform age, but it does not establish causal relationships.
