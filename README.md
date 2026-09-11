@@ -51,6 +51,11 @@ Further detail on these insights can be reviewed [here](reports/executive_summar
 
 Further detail on these limitations can be reviewed [here](reports/executive_summary.pdf).
 
+## Interactive Tableau Dashboards
+Explore the interactive dashboards to examine video game sales patterns across genres, platforms, and platform lifecycles.
+
+[**View the Interactive Tableau Dashboards →**](https://public.tableau.com/views/VideoGameSalesAnalysis_17879518593510/OverallSales_1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Project Files
 | File | Description |
 |---|---|
@@ -59,5 +64,4 @@ Further detail on these limitations can be reviewed [here](reports/executive_sum
 | **[Removed Entries](data/vg_sales_removed_entries.csv)** | Documentation of records removed during the cleaning process and reasons for removal |
 | **[Data Cleaning Methodology](documentation/data_cleaning_documentation.pdf)** | Detailed documentation of the data cleaning process and decisions |
 | **[SQL Analysis](sql/vg_sql_analysis.sql)** | SQL queries used to perform the analysis in BigQuery |
-| **[Tableau Dashboards](https://public.tableau.com/views/VideoGameSalesAnalysis_17879518593510/OverallSales_1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** | Interactive Tableau Dashboards |
 | **[Executive Summary](reports/executive_summary.pdf)** | Detailed analysis insights and limitations |
