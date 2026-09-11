@@ -24,7 +24,7 @@ Data cleaning was performed in Google Sheets, with the following major cleaning 
 * Filling in Missing/Incorrect Values
 * Removing Duplicate/Incorrect/Alternate Records
   
-Full cleaning documentation can be reviewed here.
+Full cleaning documentation can be reviewed [here](documentation/data_cleaning_documentation).
 
 ## Analysis and Methodology
 Analysis of video game sales trends across genres, platforms, years, and platform lifecycles was performed using the cleaned video game sales dataset and supplemental platform release-year dataset in BigQuery using SQL.
@@ -40,7 +40,7 @@ Visualizations were created in Tableau to identify sales patterns across platfor
 4. Typical commercial performance varied based on the combination of platform and genre rather than being associated with genre or platform alone.
 5. Games released earlier in a platform’s lifecycle may have had stronger median sales performance, though this relationship varied by platform.
 
-Further detail on these insights can be reviewed here.
+Further detail on these insights can be reviewed [here](reports/executive_summary.pdf).
 
 ## Limitations
 1. This analysis reflects only the video game sales information represented in the dataset being used, rather than the entire video game market.
@@ -49,7 +49,7 @@ Further detail on these insights can be reviewed here.
 4. The overall median by platform age produced a different pattern than when broken out by individual platforms, likely reflecting differences in the distribution of games across platforms and the influence of high-performing games at certain platform ages.
 5. This analysis identifies associations between sales and video game genre, platform, release year, and platform age, but it does not establish causal relationships.
 
-Further detail on these limitations can be reviewed here.
+Further detail on these limitations can be reviewed [here](reports/executive_summary.pdf)..
 
 ## Project Files
 | File | Description |
@@ -58,6 +58,6 @@ Further detail on these limitations can be reviewed here.
 | **[Platform Release Years Dataset](data/vg_platform_release_years.csv)** | Supplemental platform release-year data used for lifecycle analysis |
 | **[Removed Entries](data/vg_sales_removed_entries.csv)** | Documentation of records removed during the cleaning process and reasons for removal |
 | **[Data Cleaning Methodology](documentation/data_cleaning_documentation.pdf)** | Detailed documentation of the data cleaning process and decisions |
-| **[SQL Analysis](vg_sql_analysis.sql)** | SQL queries used to perform the analysis in BigQuery |
+| **[SQL Analysis](sql/vg_sql_analysis.sql)** | SQL queries used to perform the analysis in BigQuery |
 | **[Tableau Dashboards](https://public.tableau.com/views/VideoGameSalesAnalysis_17879518593510/OverallSales_1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** | Final Tableau visualizations |
-| **[Executive Summary](executive_summary.pdf)** | Detailed analysis insights and limitations |
+| **[Executive Summary](reports/executive_summary.pdf)** | Detailed analysis insights and limitations |
