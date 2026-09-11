@@ -12,7 +12,7 @@ The goal of this project is to determine which video game genres and platforms s
 * How does sales performance change over a platform’s lifecycle?
 
 ## Data Sources
-This project will use a dataset called “Video Game Sales.” created on Kaggle by Anand Shaw. The data consists of video game sales data spanning from 1977 to 2020. The data is organized by individual video games, with the following information available for each game: rank, name, platform, release year, genre, publisher, sales in North America, Europe, Japan, and the rest of the world (each in millions), and total worldwide sales. This data has a CC0: Public Domain license, was updated in the past year, and has a usability score of 10.0 on Kaggle. 
+This project will use a dataset called “Video Game Sales.” created on Kaggle by Anand Shaw. The data consists of video game sales data spanning from 1977 to 2020. The data is organized by individual video games, with the following information available for each game: rank, name, platform, release year, genre, publisher, sales in North America, Europe, Japan, and the rest of the world (each in millions), and total worldwide sales. This data has a CC0: Public Domain license and has a usability score of 10.0 on Kaggle. 
 
 [**View the Video Game Sales Dataset →**](https://www.kaggle.com/datasets/anandshaw2001/video-game-sales)
 
