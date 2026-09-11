@@ -1,4 +1,4 @@
-# Video Game Sales Analysis
+# Video Game Sales Analysis Project
 A data analytics portfolio project examining video game sales performance across genres, platforms, and time using Google Sheets, SQL in BigQuery, and Tableau.
 
 ## Business Task
