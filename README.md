@@ -56,8 +56,8 @@ Further detail on these limitations can be reviewed here.
 |---|---|
 | **[Cleaned Video Game Sales Dataset](data/vg_sales_cleaned.csv)** | Final video game sales dataset cleaned in Google Sheets and used for analysis |
 | **[Platform Release Years Dataset](data/vg_platform_release_years.csv)** | Supplemental platform release-year data used for lifecycle analysis |
-| **[Removed Entries](data/vgsales_removed_entries.csv)** | Documentation of records removed during the cleaning process and reasons for removal |
-| **[Data Cleaning Methodology](documentation/Data Cleaning Documentation.pdf)** | Detailed documentation of the data cleaning process and decisions |
-| **SQL Analysis** | SQL queries used to perform the analysis in BigQuery |
+| **[Removed Entries](data/vg_sales_removed_entries.csv)** | Documentation of records removed during the cleaning process and reasons for removal |
+| **[Data Cleaning Methodology](documentation/data_cleaning_documentation.pdf)** | Detailed documentation of the data cleaning process and decisions |
+| **[SQL Analysis](vg_sql_analysis.sql)** | SQL queries used to perform the analysis in BigQuery |
 | **[Tableau Dashboards](https://public.tableau.com/views/VideoGameSalesAnalysis_17879518593510/OverallSales_1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** | Final Tableau visualizations |
-| **Executive Summary** | Detailed analysis insights and limitations |
+| **[Executive Summary](executive_summary.pdf)** | Detailed analysis insights and limitations |
